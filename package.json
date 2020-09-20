@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "npm next dev",
     "build": "npm next build",
-    "start": "npm install && npm next build && npm next start",
+    "start": "npm cache clean --force && npm install && npm next build && npm next start",
     "postinstall": "npm next build"
   },
   "dependencies": {
