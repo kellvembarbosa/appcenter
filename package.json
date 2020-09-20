@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "node next dev",
     "build": "node next build",
-    "start": "node next start",
-    "postinstall": "yarn install && next build && next start"
+    "start": "node next start"
   },
   "dependencies": {
     "next": "9.5.3",
