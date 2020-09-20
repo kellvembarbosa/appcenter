@@ -1,6 +1,3 @@
-import Head from 'next/head'
-import { Component } from 'react'
-
 const Footer = () => (
 
   <div>
