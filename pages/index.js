@@ -3,9 +3,7 @@ import { useEffect } from 'react'
 import Head from 'next/head'
 import Layout from '../components/Layout'
 import Header from '../components/Header'
-import Blog from '../components/Blog'
 import Footer from '../components/Footer'
-import Price from '../components/Price'
 
 export default function Home() {
   const router = useRouter();
