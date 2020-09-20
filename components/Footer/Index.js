@@ -1,5 +1,4 @@
 const Footer = () => (
-
   <div>
     <footer class="text-gray-500 bg-red-900 body-font">
         <div class="container px-5 py-24 mx-auto">
