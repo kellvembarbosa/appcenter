@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "postinstall": "next build"
+    "dev": "npm next dev",
+    "build": "npm next build",
+    "start": "npm next start",
+    "postinstall": "npm next build"
   },
   "dependencies": {
     "next": "9.5.3",
