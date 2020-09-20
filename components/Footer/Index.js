@@ -18,7 +18,7 @@ const Footer = () => (
                 <li>
                     <a class="text-gray-600 hover:text-white">Fourth Link</a>
                 </li>
-                </nav>
+                </nav> 
             </div>
             <div class="lg:w-1/4 md:w-1/2 w-full px-4">
                 <h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">CATEGORIES</h2>
