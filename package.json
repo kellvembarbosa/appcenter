@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "node next dev",
-    "build": "node next build",
-    "start": "node next start"
+    "dev": "yarn next dev",
+    "build": "yarn next build",
+    "start": "yarn install && next build && next start"
   },
   "dependencies": {
     "next": "9.5.3",
